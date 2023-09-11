@@ -78,10 +78,8 @@ int main()
                                 cout << "Компот." << endl;
                             }
                             else {
-                                if (number == 7) {
-                                    cout << text << day7 << endl;
-                                    cout << "Выходной." << endl;
-                                }
+                                cout << text << day7 << endl;
+                                cout << "Выходной." << endl;
                             }
                         }
                     }
